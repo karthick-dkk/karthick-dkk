@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @karthick-dkk
 - 👀 I’m interested in DevOps, Network Security, Cloud Security.
-- 🌱 I’m currently learning: DevSecOps
 - 💞️ I’m looking to collaborate on: Open Source...
 - 📫 How to reach me: https://www.linkedin.com/in/karthick-dkk/
 
