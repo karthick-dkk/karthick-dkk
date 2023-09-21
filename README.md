@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/karthickdkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="karthickdkk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/karthick-dkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthick-dkk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/karthick-dkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/karthick-dkk/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/17715768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/17715768" height="30" width="40" /></a>
 <a href="https://instagram.com/karthick_dkk_dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthick_dkk_dk" height="30" width="40" /></a>
 <a href="https://hashnode.com/@karthick02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@karthick02" height="30" width="40" /></a>
