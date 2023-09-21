@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Karthick Dk</h1>
 <h3 align="center">DevSecOps Engineer</h3>
-(img align="right" alt="Coding" width="400" src="https://www.netsolutions.com/insights/wp-content/uploads/2022/09/what-is-devsecops.png.webp")
+<img align="right" alt="Coding" width="400" src="https://www.netsolutions.com/insights/wp-content/uploads/2022/09/what-is-devsecops.png.webp">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthick-dkk&label=Profile%20views&color=0e75b6&style=flat" alt="karthick-dkk" /> </p>
 
