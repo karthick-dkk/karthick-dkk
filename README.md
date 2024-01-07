@@ -1,5 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://linkedin.com/in/karthick-dkk)
-<h1 align="center">Hi 👋, I'm Karthick Dk</h1>
+<h1 align="center">Hi 👋, I'm Karthick D</h1>
 <h3 align="center">DevSecOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.netsolutions.com/insights/wp-content/uploads/2022/09/what-is-devsecops.png.webp">
 
@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthick-dkk&label=Profile%20views&color=0e75b6&style=flat" alt="karthick-dkk" /> </p>
 
 
-- 💬 Ask me about **Linux, Docker, Ansible, Jenkins, K8s**
+- 💬 Ask me about **Linux, Docker, Ansible, Jenkins, K8s, AWS**
 
-- 📫 How to reach me **karthidkk123@gmail.com**
+- 📫 How to reach me **karthickdkk@outlook.com**
 
-- ⚡ Fun fact **funny guy**
+- ⚡ Fun fact **Linux guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
