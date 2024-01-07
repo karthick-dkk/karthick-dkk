@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthick-dkk&label=Profile%20views&color=0e75b6&style=flat" alt="karthick-dkk" /> </p>
 
 
-- 💬 Ask me about **Linux, Docker, Ansible, Jenkins, K8s, AWS**
+- 💬 Ask me about **Linux, Docker, Ansible, Jenkins, K8s, AWS, Zabbix, Grafana, Network Security**
 
 - 📫 How to reach me **karthickdkk@outlook.com**
 
