@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthick-dkk&" alt="karthick-dkk" /></p>
 <h3 align="left">Blog:</h3>
-<p><a href="https://www.karthidkk123.medium.com">  <img align="center" src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@karthidkk123&index=1&source=medium" alt="karthick-dkk" /></a></p><br><br>
+<p><a href="https://karthidkk123.medium.com">  <img align="center" src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@karthidkk123&index=1&source=medium" alt="karthick-dkk" /></a></p><br><br>
