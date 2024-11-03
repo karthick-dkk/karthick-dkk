@@ -31,7 +31,7 @@
 <a href="https://karthidkk123.medium.com">  <img align="center" src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@karthidkk123&index=3&source=medium" alt="karthick-dkk" /></a></p><br><br>
   
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/karthidkk1Q"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="karthidkk1Q" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/karthidkk1Q"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="karthidkk1Q" /></a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthick-dkk&show_icons=true&locale=en&layout=compact" alt="karthick-dkk" /></p>
 
