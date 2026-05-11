@@ -33,14 +33,15 @@
 ```yaml
 name: Karthick D
 role: DevSecOps Engineer
-location: Tamil Nadu, India
+location: Tamil Nadu, India. (Bangalore)
 focus:
+  - Senior Linux Administrator
   - Cloud security & infrastructure automation
   - Observability engineering & SIEM operations
   - Configuration management at scale
   - Vulnerability remediation & compliance
+  - Zabbix Realtime Monitoring 
 philosophy: "Automate everything. Secure by default. Observe always."
-contact: https://www.linkedin.com/in/karthick-dkk/
 ```
 
 ---
