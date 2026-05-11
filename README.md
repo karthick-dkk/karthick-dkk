@@ -40,7 +40,7 @@ focus:
   - Configuration management at scale
   - Vulnerability remediation & compliance
 philosophy: "Automate everything. Secure by default. Observe always."
-contact: karthickdkk@outlook.com
+contact: https://www.linkedin.com/in/karthick-dkk/
 ```
 
 ---
