@@ -111,11 +111,6 @@ contact: karthickdkk@outlook.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthick-dkk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-dkk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=karthick-dkk&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
@@ -162,8 +157,8 @@ contact: karthickdkk@outlook.com
   <a href="https://medium.com/@karthidkk123" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://instagram.com/karthick_dkk_dk" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://karthickdk.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
